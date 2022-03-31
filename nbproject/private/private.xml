@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/ITU/Mme_Baovola/Restorants6/foodwar/web/serveurTips.jsp</file>
+            <file>file:/D:/ITU/Mme_Baovola/Restorants6/foodwar/src/java/entity/ServeurTips.java</file>
+            <file>file:/D:/ITU/Mme_Baovola/Restorants6/foodwar/web/index.html</file>
+            <file>file:/D:/ITU/Mme_Baovola/Restorants6/foodwar/src/java/controller/ListPlatCategorieController.java</file>
+            <file>file:/D:/ITU/Mme_Baovola/Restorants6/foodwar/src/java/controller/ListPlatController.java</file>
+            <file>file:/D:/ITU/Mme_Baovola/Restorants6/foodwar/src/java/entity/Vplat.java</file>
+            <file>file:/D:/ITU/Mme_Baovola/Restorants6/foodwar/src/java/service/ServeurTipsService.java</file>
+            <file>file:/D:/ITU/Mme_Baovola/Restorants6/foodwar/src/java/entity/Categorie.java</file>
+            <file>file:/D:/ITU/Mme_Baovola/Restorants6/foodwar/src/java/connection/Mico.java</file>
+            <file>file:/D:/ITU/Mme_Baovola/Restorants6/foodwar/web/WEB-INF/web.xml</file>
+            <file>file:/D:/ITU/Mme_Baovola/Restorants6/foodwar/web/listePlat.jsp</file>
+            <file>file:/D:/ITU/Mme_Baovola/Restorants6/foodwar/src/java/controller/TipsController.java</file>
+            <file>file:/D:/ITU/Mme_Baovola/Restorants6/foodwar/base/resto.sql</file>
+            <file>file:/D:/ITU/Mme_Baovola/Restorants6/foodwar/src/java/entity/Plat.java</file>
+        </group>
+    </open-files>
+</project-private>
